@@ -5,7 +5,7 @@ Learning Multi-Agent Collaborative Manipulation for Long-Horizon Quadrupedal Pus
 
 <p align="center">
     <a href="https://collaborative-mapush.github.io/">Website</a> |
-    <a href="https://collaborative-mapush.github.io/static/pdfs/long_horizon_multi_robot_push.pdf">Paper</a>
+    <a href="https://arxiv.org/pdf/2411.07104">Paper</a>
 </p>
 <p align="center">
   <img src="resources/images/teaser1.gif" alt="Descriptive Alt Text" width="600"/>
