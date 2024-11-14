@@ -1,6 +1,6 @@
 <!-- # Learning Multi-Agent Collaborative Manipulation for Long-Horizon Quadrupedal Pushing -->
 <h2 align="center">
-Learning Multi-Agent Collaborative Manipulation for Long-Horizon Quadrupedal Pushing
+Learning Multi-Agent Loco-Manipulation for Long-Horizon Quadrupedal Pushing
 </h2>
 
 <p align="center">
