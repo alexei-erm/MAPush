@@ -128,5 +128,10 @@ You could find different object at resources/objects and add it to stage at conf
 
 If you find our paper or repo helpful to your research, please consider citing the paper:
 ```
-coming soon
+@article{mapush2024,
+  title={Learning Multi-Agent Loco-Manipulation for Long-Horizon Quadrupedal Pushing},
+  author={Feng, Yuming and Hong, Chuye and Niu, Yaru and Liu, Shiqi and Yang, Yuxiang and Yu, Wenhao and Zhang, Tingnan and Tan, Jie and Zhao, Ding},
+  journal={arXiv preprint arXiv:2411.07104},
+  year={2024}
+}
 ```
