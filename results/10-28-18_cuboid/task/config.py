@@ -32,6 +32,7 @@ class Go1PushMidCfg(Go1Cfg):
 
     # config of the terrain
     class terrain(Go1Cfg.terrain):
+
         num_rows = 1
         num_cols = 1
 

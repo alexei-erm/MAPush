@@ -1,0 +1,66 @@
+2025-10-28 18:12:53,484 [INFO] Episode: 0/12
+2025-10-28 18:12:58,897 [INFO] 
+	average_step_reward: -0.021021399646997452
+	distance_to_target_reward: -0.00775153050199151
+	exception_punishment: 0.0
+	approach_to_box_reward: -0.0053397589433006945
+	collision_punishment: -0.0046801299729850145
+	reach_target_reward: 0.0
+	push_reward: 1.1249999261053745e-05
+	ocb_reward: -0.003261231385986321
+
+2025-10-28 18:12:58,900 [INFO] 
+	value_loss: 0.30958522856235504
+	policy_loss: -0.004811584241221567
+	dist_entropy: 4.253619241714477
+	actor_grad_norm: 0.32865235209465027
+	critic_grad_norm: 0.9736453294754028
+	ratio: 1.0021815419197082
+
+2025-10-28 18:12:58,902 [INFO] Episode: 1/12
+2025-10-28 18:13:04,090 [INFO] Episode: 2/12
+2025-10-28 18:13:09,340 [INFO] Episode: 3/12
+2025-10-28 18:13:14,635 [INFO] Episode: 4/12
+2025-10-28 18:13:19,888 [INFO] Episode: 5/12
+2025-10-28 18:13:25,247 [INFO] 
+	average_step_reward: -0.017350194975733757
+	distance_to_target_reward: -0.00605245353654027
+	exception_punishment: 0.0
+	approach_to_box_reward: -0.004376715465914458
+	collision_punishment: -0.009712591482093557
+	reach_target_reward: 0.0
+	push_reward: 1.500000053056283e-05
+	ocb_reward: 0.0027765674830880016
+
+2025-10-28 18:13:25,250 [INFO] 
+	value_loss: 0.11884833872318268
+	policy_loss: -0.0031954741086231307
+	dist_entropy: 4.245560121536255
+	actor_grad_norm: 0.3885267376899719
+	critic_grad_norm: 0.8331000208854675
+	ratio: 0.9994237303733826
+
+2025-10-28 18:13:25,252 [INFO] Episode: 6/12
+2025-10-28 18:13:30,723 [INFO] Episode: 7/12
+2025-10-28 18:13:36,022 [INFO] Episode: 8/12
+2025-10-28 18:13:41,379 [INFO] Episode: 9/12
+2025-10-28 18:13:47,012 [INFO] Episode: 10/12
+2025-10-28 18:13:52,297 [INFO] 
+	average_step_reward: -0.018080517649650574
+	distance_to_target_reward: -0.008836344815790653
+	exception_punishment: 0.0
+	approach_to_box_reward: -0.004546490162611007
+	collision_punishment: -0.005237981318496168
+	reach_target_reward: 0.0
+	push_reward: 1.8750000890577212e-05
+	ocb_reward: 0.0005215490670525468
+
+2025-10-28 18:13:52,299 [INFO] 
+	value_loss: 0.09947982057929039
+	policy_loss: -0.006398356638848845
+	dist_entropy: 4.228697919845581
+	actor_grad_norm: 0.45360374450683594
+	critic_grad_norm: 0.41290655732154846
+	ratio: 1.0010363459587097
+
+2025-10-28 18:13:52,301 [INFO] Episode: 11/12
