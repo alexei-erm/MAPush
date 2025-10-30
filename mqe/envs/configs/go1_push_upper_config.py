@@ -89,6 +89,8 @@ class Go1PushUpperCfg(Go1Cfg):
         control_type = 'C'
         command_network_path = "./resources/command_nets/1.2x1.2.pt"
 
+
+
     # termination conditions
     class termination(Go1Cfg.termination):
         # additional factors that determines whether to terminates the episode
